@@ -968,7 +968,7 @@ body{
     
         & #curriculum{
             width: 92%;
-            height: 100vh;
+            height: auto;
             display:flex;
             flex-direction: column;
             justify-content: space-evenly;
@@ -1051,12 +1051,12 @@ body{
     
         & #portfolio{
             width: 92%;
-            height: 100vh;
+            height: auto;
             display:flex;
             flex-direction: column;
             justify-content: flex-start;
             padding: 0% 4%;
-            margin-top:96%;
+            margin-top:10%;
             background-color: white;
     
             .slider {
